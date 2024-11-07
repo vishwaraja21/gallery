@@ -121,7 +121,10 @@ https://codepen.io/Vishwa-Raja-the-sasster/pen/vYozPNy
 ```
 ## OUTPUT:
 
-
+![Screenshot (577)](https://github.com/user-attachments/assets/5286fc72-9884-4922-abc8-a172a82a0c67)
+![Screenshot (574)](https://github.com/user-attachments/assets/4d8e25fe-56e4-449d-9b35-c1fb5abc8196)
+![Screenshot (576)](https://github.com/user-attachments/assets/aabe2aed-cc7a-409f-a4a5-d261919f0ba6)
+![Screenshot (575)](https://github.com/user-attachments/assets/a38c511b-e50c-4e63-9f99-ac1b6716ddb3)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
